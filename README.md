@@ -14,7 +14,7 @@ Topic E:
 Draws either a truck or a car using inheritance and polymorphism. Allows the user to name the model of the car and the tonnage for the truck. 
 
 Topic G:
-Used the Array class from Chapter 10 of <i>C++: How to Program</i> by Deitel and converts it into a template
+Used the Array class from Chapter 10 of <i>C++: How to Program</i> by Deitel and converts it into a template class.
 
 Topic I:
 Reads data from a file and inputs it into a vector. Then the data is sorted into a deque with the mode calculated, then written to a file. 
