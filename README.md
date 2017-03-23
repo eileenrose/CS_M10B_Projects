@@ -7,14 +7,8 @@ Topic B:
 
 Topic C:
 
-Topic D:
-
 Topic E:
 
-Topic F:
-
 Topic G:
-
-Topic H:
 
 Topic I:
