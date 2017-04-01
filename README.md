@@ -1,6 +1,9 @@
 # CS_M10B_Projects
 Projects from CS M10B from Moorpark
 
+Prerequisite:
+Reads data from a file and inputs it into a vector and an array. Then it finds the mean, median, and mode, and writes it to a file.
+
 Topic A: 
 Allocates memory dynamically according to a diagram. Takes in user input to create a two-dimensional array, reverses it, and displays it.
 
